@@ -469,7 +469,7 @@ input {
 /*================ Contact ===============*/
  
 .contact {
-    background: url(../sebastian/contact-bg.jpg);
+    background: url("contact-bg.jpg");
     background-size: cover;
     background-position: 50%;
     position: relative;
