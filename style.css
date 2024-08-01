@@ -203,7 +203,7 @@ input {
 
 /*===========Home=========*/
 .home {
-    background-image: url('home-bg.jpg');
+    background-image: url("home-bg.jpg");
     background-size: cover;
     background-position: 50%;
     padding-top: 5.5rem;
